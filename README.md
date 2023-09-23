@@ -5,3 +5,8 @@
 
 ![sales project](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/0d57e117-9e95-493f-9cda-6e009bd90722)
 
+## Pizza Sales Data Analysis and Visualization:
+
+![pizza sales](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/dbbc08dd-6487-4d29-95dd-8d9e028484a0)
+
+
