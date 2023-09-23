@@ -9,5 +9,8 @@
 
 ![pizza sales](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/dbbc08dd-6487-4d29-95dd-8d9e028484a0)
 
+## Prime Video Data Analysis and Visualization:
+
+![powerbi](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/6a1db8fb-7561-4d9c-a3c1-c2b719e6c4f5)
 
 ## The End
