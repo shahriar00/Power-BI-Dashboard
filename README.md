@@ -13,4 +13,9 @@
 
 ![powerbi](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/6a1db8fb-7561-4d9c-a3c1-c2b719e6c4f5)
 
+## FIFA World Cup Data Analysis and Visualization:
+
+![worldcupresultdashboard](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/20dbb7ef-2774-4ba8-9a57-b9a1a14b0058)
+
+
 ## The End
