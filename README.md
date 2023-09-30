@@ -19,6 +19,7 @@
 
 ## Medical Data Analysis and Viualizaion:
 
+![medical data analysis](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/86fcf563-f607-4bd1-aada-c1456f40b527)
 
 
 ## The End
