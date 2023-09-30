@@ -17,5 +17,8 @@
 
 ![worldcupresultdashboard](https://github.com/shahriar00/Power-BI-Dashboard/assets/70763173/20dbb7ef-2774-4ba8-9a57-b9a1a14b0058)
 
+## Medical Data Analysis and Viualizaion:
+
+
 
 ## The End
